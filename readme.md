@@ -1,17 +1,17 @@
-## Quick and Easy JavaScript Minecraft Mods
+## Learn to Code with Minecraft and JavaScript
 
-1. Installing Minecraft (Desktop version)
+This repository contains some JavaScript mods for Minecraft.
 
-1. Installing the SpigotMC Minecraft server locally
+The goal here is to use Minecraft as a way to learn basic coding skills. When you're learning to write a loop, would you rather watch text print to screen or blow up creepers? Yeah, I thought so.
 
-1. Setting server properties
+To get your environment setup to run this, follow these steps:
 
-1. Running the server
+* install Java from [java.com/download/](https://java.com/download/)
+* follow the [this article](https://github.com/walterhiggins/ScriptCraft/blob/master/README.md) to learn how to install a custom Minecraft server on your machine that has the ScriptCraft mod ready to go
+* clone this repo of my mods to your machine
+* create a link of this repo in your ScriptCraft plugins folder
+* code away
 
-1. Testing ScriptCraft
+Feel free to create an issue on the Issues tab if you have any problems getting going.
 
-1. Connecting to your server
-
-1. Some simple commands from Minecraft
-
-1. Writing mods
+> NOTE: there's more to come here to help you get started and a lot more to add to the code. Come back for updates, and you should always be able to `git pull origin master` in your cloned repo to get the latest changes.
