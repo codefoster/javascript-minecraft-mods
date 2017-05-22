@@ -12,10 +12,12 @@ exports.shelter = function () {
         .box0(blocks.iron, size, 1, size)
         .up();
 
-    if(utils.time() >= 14000) //make this more readable by creating an isNight variable
+    if(utils.time() >= 14000) 
         walls.box(blocks.glowstone, size, 1, size)
     else
         walls.box(blocks.iron, size, 1, size);
-    //make the above simpler by using the ?: ternary operator
 
 }
+
+//TASK: make the if statement more readable by creating an isNight variable
+//TAKS: simlify the if statement using the ?: ternary operator
